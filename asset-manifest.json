@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wevois-reactapp/static/css/main.e9ac8dac.css",
+    "main.js": "/wevois-reactapp/static/js/main.71a6c0dc.js",
+    "index.html": "/wevois-reactapp/index.html",
+    "main.e9ac8dac.css.map": "/wevois-reactapp/static/css/main.e9ac8dac.css.map",
+    "main.71a6c0dc.js.map": "/wevois-reactapp/static/js/main.71a6c0dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9ac8dac.css",
+    "static/js/main.71a6c0dc.js"
+  ]
+}
