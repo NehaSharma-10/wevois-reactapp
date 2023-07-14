@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wevois-reactapp/static/css/main.e9ac8dac.css",
-    "main.js": "/wevois-reactapp/static/js/main.f2c5f232.js",
+    "main.css": "/wevois-reactapp/static/css/main.d381b04a.css",
+    "main.js": "/wevois-reactapp/static/js/main.41aecf82.js",
     "index.html": "/wevois-reactapp/index.html",
-    "main.e9ac8dac.css.map": "/wevois-reactapp/static/css/main.e9ac8dac.css.map",
-    "main.f2c5f232.js.map": "/wevois-reactapp/static/js/main.f2c5f232.js.map"
+    "main.d381b04a.css.map": "/wevois-reactapp/static/css/main.d381b04a.css.map",
+    "main.41aecf82.js.map": "/wevois-reactapp/static/js/main.41aecf82.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9ac8dac.css",
-    "static/js/main.f2c5f232.js"
+    "static/css/main.d381b04a.css",
+    "static/js/main.41aecf82.js"
   ]
 }
